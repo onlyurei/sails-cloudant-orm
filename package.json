@@ -1,6 +1,6 @@
 {
     "name": "sails-cloudant-orm",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Waterline Sails Adapter for IBM Cloudant Database",
     "main": "index.js",
     "directories": {
@@ -22,7 +22,6 @@
         "sails.js"
     ],
     "author": "Carlos Galveias",
-    "main": "index.js",
     "maintainers": [{
         "name": "Carlos Galveias",
         "email": "carlos.galveias@gmail.com"
