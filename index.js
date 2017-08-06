@@ -60,6 +60,7 @@ var views = require('./views');
 
 
 var adapter = exports;
+adapter.adapterApiVersion = 1;
 
 // Set to true if this adapter supports (or requires) things like data types, validations, keys, etc.
 // If true, the schema for models using this adapter will be automatically synced when the server starts.
